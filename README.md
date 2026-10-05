@@ -32,3 +32,7 @@ Run the project with the command documented here once the application entry poin
 ## License
 
 This project is licensed under the MIT License. See [`LICENSE`](LICENSE).
+
+## AI-assisted review
+
+The README was reviewed with an AI assistant. The setup, stack, collaboration conventions, and license links were clarified so a new contributor can understand the repository quickly.

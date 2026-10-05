@@ -20,7 +20,7 @@ Project setup is complete. The application scope and implementation plan will be
 npm install
 ```
 
-Run the project with the command documented here once the application entry point is added.
+There are no dependencies or `package.json` yet, so this command will be used after the project manifest is added. Run the project with the command documented here once the application entry point is added.
 
 ## Collaboration conventions
 
@@ -36,3 +36,5 @@ This project is licensed under the MIT License. See [`LICENSE`](LICENSE).
 ## AI-assisted review
 
 The README was reviewed with an AI assistant. The setup, stack, collaboration conventions, and license links were clarified so a new contributor can understand the repository quickly.
+
+# Task1
